@@ -1,2 +1,1 @@
-# form page
-form using html
+# registration form page (html,css,javascript)
